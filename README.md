@@ -1,12 +1,12 @@
 # carin
 # UTS-PAM, CarinAkielaAmanda_120140030_RA
 
-Lampiran Link [Carin Akiela Amanda] =
-github = https://github.com/carinakiela/carin
-Aplikasi = https://drive.google.com/drive/folders/1bdtjmXDEcqUl9h_e31mjcOO1YxRIsGCt?usp=sharing 
-Laporan = https://github.com/carinakiela/carin/commits?author=carinakiela
+#Lampiran Link [Carin Akiela Amanda] =
+#github = https://github.com/carinakiela/carin
+#Aplikasi = https://drive.google.com/drive/folders/1bdtjmXDEcqUl9h_e31mjcOO1YxRIsGCt?usp=sharing 
+#Laporan = https://github.com/carinakiela/carin/commits?author=carinakiela
 
-lampiran langkah-langkah dalam membuat aplikasi lagu anak-anak =
+#lampiran langkah-langkah dalam membuat aplikasi lagu anak-anak =
 
 ## Instalasi Aplikasi
 1. Sebelum menjalankan sebaiknya membaca dokumentasi yang disediakan, kemudian melakukan install vs code, dan settup Reac Native
